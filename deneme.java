@@ -4,5 +4,5 @@ public  deneme {
                 System.out.println("Dosya indiriliyor...");
 
                 // GitHub reposunun URL'si
-                String repoUrl = "
+                String repoUrl = "dsfgsdöknk
 }
